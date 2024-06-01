@@ -1,1 +1,2 @@
 Dodałem na potrzeby symulacji.
+Kolejna zmiana, bo poprzedni push zadziałał, bo nie było zatwierdzonej reguły na main.
